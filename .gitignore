@@ -5,7 +5,6 @@ node_modules/
 package-lock.json
 
 # Python-related ignores in backend
-backend/.env
 backend/__pycache__/
 backend/.gitignore
 
@@ -23,9 +22,7 @@ frontend/coverage/
 frontend/build/
 
 # misc
-frontend/.DS_Store
-frontend/.env
-frontend/.env.local
+frontend/.DS_Store=
 frontend/.env.development.local
 frontend/.env.test.local
 frontend/.env.production.local
